@@ -1,0 +1,4 @@
+vẽ các đoạn chuyển của rắn
+thêm nút pause
+thêm nút setting
+tốc độ rắn
